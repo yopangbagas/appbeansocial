@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">beansosial</string>
+    <string name="var1"> Messages </string>
+    <string name="bsignin"> Sign-In </string>
+    <string name="tLogin"> LOGIN </string>
+    <string name="tData"> Your Data </string>
+    <string name="tEmail"> Email: </string>
+    <string name="tPassword"> Password: </string>
+    <string name="txEmail"> E-mail Hasil </string>
+    <string name="txPassword"> Password Hasil </string>
+    <string name="label2"> Login berhasil </string>
+    <string name="mDaftar"> pendaftaraan </string>
+    <string name="lDaftar"> daftar </string>
+    <string name="enama"> Nama </string>
+    <string name="eemail"> E-mail </string>
+    <string name="epass"> Password </string>
+    <string name="erepass"> Re-Password </string>
+    <string name="ealamat"> alamat </string>
+</resources>
